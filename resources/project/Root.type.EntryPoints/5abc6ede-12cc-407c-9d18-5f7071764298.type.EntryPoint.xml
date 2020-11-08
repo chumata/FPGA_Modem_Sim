@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="FPGA_Modem_Sim.slx" Name="FPGA_Modem_Sim">
+    <Extension Value="63e622ab-1b8c-4d27-8620-ba98bc3d17e2" Name="StartUpPrev" />
+</Info>
